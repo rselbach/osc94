@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/rselbach/osc94)](https://goreportcard.com/report/github.com/rselbach/osc94)
 [![License](https://img.shields.io/github/license/rselbach/osc94)](LICENSE)
 
-OSC 9;4 progress helpers for terminal tabs/taskbars.
+OSC 9;4 progress helpers for terminal tabs/taskbars. Compatible with modern terminals like Ghostty, WezTerm, etc.
 
 ## Install
 
